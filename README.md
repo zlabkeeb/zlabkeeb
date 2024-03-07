@@ -29,6 +29,7 @@
 </p>
 
 - Ini Masih Prototype Ya...
+- Proses PR QMK
 
 ## Spesifikasi
 
