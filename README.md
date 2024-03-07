@@ -1,5 +1,5 @@
 <p align="center">
-  <strong> 👋 Hallo dan Selamat Datang Di @zlabkeeb</strong>
+  <h1>👋 Hallo dan Selamat Datang Di @zlabkeeb</h1>
   <hr>
 </p>
 
