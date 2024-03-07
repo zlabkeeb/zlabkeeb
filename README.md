@@ -1,6 +1,5 @@
 <p align="center">
   <h1>👋 Hallo dan Selamat Datang Di @zlabkeeb</h1>
-  <hr>
 </p>
 
 # Macropad @zlabkeeb 15Pad
