@@ -48,5 +48,5 @@
 - Update PCB Lebih Kecil
 
 <p align="center">
-  <img width="500" height="500" src="https://i.imgur.com/Fikjs8p.png">
+  <img width="700" height="500" src="https://i.imgur.com/Fikjs8p.png">
 </p>
