@@ -12,10 +12,10 @@ Ini adalah proyek macropad saya yang menggunakan RP2040. Saya akan secepatnya me
 
 ## Spesifikasi
 
-- RP2040 microcontroller
+- RP2040 Microcontroller
 
-- 15 tombol dan 3 Rotary Encoder
+- 12 Tombol dan 3 Rotary Encoder
 
-- USB-C konektivitas
+- USB-C Konektivitas
 
 - Led RGB Underglow
