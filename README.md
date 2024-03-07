@@ -6,7 +6,8 @@
 
 - 👋 Hallo dan Selamat Datang Di @zlabkeeb
 
-Ini adalah proyek macropad saya yang menggunakan RP2040. Saya akan secepatnya mencoba untuk mengintegrasikan dukungan QMK dan VIA.
+Ini Adalah Proyek Macropad Saya
+Saya Akan Secepatnya Mencoba Untuk Mengintegrasikan Dukungan QMK Dan VIA.
 
 - PCB / barebone akan tersedia di [Tokopedia](https://www.tokopedia.com/zahranetid)
 
