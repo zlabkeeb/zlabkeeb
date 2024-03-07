@@ -6,9 +6,8 @@
 
 - 👋 Hallo dan Selamat Datang Di @zlabkeeb
 
-Ini Adalah Proyek Macropad Saya.
-Saya Akan Secepatnya Mencoba Untuk Mengintegrasikan Dukungan QMK Dan VIA.
-
+- Ini Adalah Proyek Macropad Saya.
+- Saya Akan Secepatnya Mencoba Untuk Mengintegrasikan Dukungan QMK Dan VIA.
 - PCB / barebone akan tersedia di [Tokopedia](https://www.tokopedia.com/zahranetid)
 
 ## Spesifikasi
