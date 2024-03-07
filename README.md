@@ -8,7 +8,7 @@
 
 - Ini Adalah Proyek Macropad Saya.
 - Saya Akan Secepatnya Mencoba Untuk Mengintegrasikan Dukungan QMK Dan VIA.
-- PCB / barebone akan tersedia di [Tokopedia](https://www.tokopedia.com/zahranetid)
+- PCB / Barebone Akan Tersedia Di [Tokopedia](https://www.tokopedia.com/zahranetid)
 
 ## Spesifikasi
 
