@@ -29,7 +29,7 @@
 </p>
 
 - Ini Masih Prototype Ya...
-- Proses PR QMK
+- Masih Proses PR QMK
 
 ## Spesifikasi
 
