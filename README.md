@@ -19,3 +19,23 @@
 - USB-C Konektivitas
 
 - Led RGB Underglow
+
+#
+
+# Macropad @zlabkeeb 6Pad
+
+<p align="center">
+  <img width="300" height="500" src="https://i.imgur.com/Ugc3R2Th.jpeg">
+</p>
+
+- Ini Masih Prototype Ya...
+
+## Spesifikasi
+
+- Pro Micro Microcontroller
+
+- 5 Tombol dan 1 Rotary Encoder
+
+- USB-C Konektivitas
+
+- Led RGB Underglow
