@@ -2,9 +2,18 @@
 
 ![Macropad @zlabkeeb 15Pad](https://i.imgur.com/E5Ajv0fh.jpeg)
 
-- 👋 Hay Selamat Datang Di @zlabkeeb
+- 👋 Hallo dan Selamat Datang Di @zlabkeeb
 
-Ini Adalah Project Macropad Saya Pakai RP2040
-Secepatnya Saya Akan Berusaha Push Ke QMK Dan VIA
+Ini adalah proyek macropad saya yang menggunakan RP2040. Saya akan secepatnya mencoba untuk mengintegrasikan dukungan QMK dan VIA.
 
-- PCB / Barebone Akan Tersedia Di TOKOPEDIA
+- PCB / barebone akan tersedia di [Tokopedia](https://www.tokopedia.com/zahranetid)
+
+## Spesifikasi
+
+- RP2040 microcontroller
+
+- 15 tombol dan 3 Rotary Encoder
+
+- USB-C konektivitas
+
+- Led RGB Underglow
