@@ -44,3 +44,9 @@
 - USB-C Konektivitas
 
 - Led RGB Underglow
+
+- Update PCB Lebih Kecil
+
+<p align="center">
+  <img width="300" height="500" src="https://i.imgur.com/Fikjs8p.png">
+</p>
