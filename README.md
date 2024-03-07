@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @zlabkeeb
-- 👀 I’m interested in Mechanical Keyboard
+- 👋 Hay Selamat Datang Di @zlabkeeb
 
 <!---
 zlabkeeb/zlabkeeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
