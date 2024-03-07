@@ -1,7 +1,7 @@
 # Macropad @zlabkeeb 15Pad
 
 <p align="center">
-  <img width="300" height="200" src="https://i.imgur.com/E5Ajv0fh.jpeg">
+  <img width="300" height="500" src="https://i.imgur.com/E5Ajv0fh.jpeg">
 </p>
 
 - 👋 Hallo dan Selamat Datang Di @zlabkeeb
