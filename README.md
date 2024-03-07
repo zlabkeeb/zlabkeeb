@@ -1,4 +1,7 @@
-# 👋 Hallo Dan Selamat Datang Di @zlabkeeb
+<p align="center">
+  <strong> 👋 Hallo dan Selamat Datang Di @zlabkeeb</strong>
+  <hr>
+</p>
 
 # Macropad @zlabkeeb 15Pad
 
@@ -6,7 +9,7 @@
   <img width="300" height="500" src="https://i.imgur.com/E5Ajv0fh.jpeg">
 </p>
 
-- 👋 Hallo Dan Selamat Datang Di @zlabkeeb
+- Hallo Dan Selamat Datang Di @zlabkeeb
 
 - Ini Adalah Proyek Macropad Saya.
 - Saya Akan Secepatnya Mencoba Untuk Mengintegrasikan Dukungan QMK Dan VIA.
