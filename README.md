@@ -32,6 +32,7 @@
 
 - Ini Masih PCB V1
 - Masih Proses PR QMK
+- PCB / Barebone Akan Tersedia Di [Tokopedia](https://www.tokopedia.com/zahranetid)
 
 ## Spesifikasi
 
