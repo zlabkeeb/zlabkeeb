@@ -33,7 +33,7 @@
 </p>
 
 - Ini Masih PCB V1
-
+<hr>
 <p align="center">
   <img width="550" height="400" src="https://i.imgur.com/Fikjs8p.png">
 </p>
