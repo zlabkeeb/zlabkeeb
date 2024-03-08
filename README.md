@@ -8,8 +8,6 @@
   <img width="300" height="500" src="https://i.imgur.com/E5Ajv0fh.jpeg">
 </p>
 
-- Hallo Dan Selamat Datang Di @zlabkeeb
-
 - Ini Adalah Proyek Macropad Saya.
 - Saya Akan Secepatnya Mencoba Untuk Mengintegrasikan Dukungan QMK Dan VIA.
 - PCB / Barebone Akan Tersedia Di [Tokopedia](https://www.tokopedia.com/zahranetid)
