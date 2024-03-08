@@ -32,7 +32,7 @@
   <img width="300" height="500" src="https://i.imgur.com/Ugc3R2Th.jpeg">
 </p>
 
-- Ini Masih PCB V1
+- Ini Masih PROTOTYPE PCB
 <hr>
 <p align="center">
   <img width="550" height="400" src="https://i.imgur.com/Fikjs8p.png">
@@ -42,9 +42,8 @@
   <img width="550" height="400" src="https://i.imgur.com/qvEs3yf.png">
 </p>
 
-- Update PCB Lebih Kecil Dan Rapi ✅
+- Update PCB V2 Lebih Kecil Dan Rapi ✅
 
-- Ini Masih PCB V1
 - Masih Proses PR QMK
 - PCB / Barebone Akan Tersedia Di [Tokopedia](https://www.tokopedia.com/zahranetid)
 
