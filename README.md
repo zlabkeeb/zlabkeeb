@@ -18,6 +18,8 @@
 
 - 12 Tombol dan 3 Rotary Encoder
 
+- Kailh Hotswap Socket
+
 - USB-C Konektivitas
 
 - Led RGB Underglow
@@ -39,6 +41,8 @@
 - Pro Micro Microcontroller
 
 - 5 Tombol dan 1 Rotary Encoder
+
+- Kailh Hotswap Socket
 
 - USB-C Konektivitas
 
