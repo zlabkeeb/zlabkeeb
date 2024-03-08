@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>👋 Hallo dan Selamat Datang Di @zlabkeeb</h1>
+  <h1>👋 Hallo & Selamat Datang Di @zlabkeeb</h1>
 </p>
 
 # Macropad @zlabkeeb 15Pad
@@ -32,7 +32,7 @@
   <img width="300" height="500" src="https://i.imgur.com/Ugc3R2Th.jpeg">
 </p>
 
-- Ini Masih Prototype Ya...
+- Ini Masih PCB V1
 - Masih Proses PR QMK
 
 ## Spesifikasi
