@@ -38,6 +38,10 @@
   <img width="550" height="400" src="https://i.imgur.com/Fikjs8p.png">
 </p>
 
+<p align="center">
+  <img width="550" height="400" src="https://i.imgur.com/qvEs3yf.png">
+</p>
+
 - Update PCB Lebih Kecil Dan Rapi ✅
 
 - Ini Masih PCB V1
