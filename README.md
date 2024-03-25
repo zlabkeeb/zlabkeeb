@@ -10,7 +10,6 @@
 
 
 
-- Saya Akan Secepatnya Mencoba Untuk Mengintegrasikan Dukungan QMK Dan VIA.
 - Masih Proses PR QMK
 - PCB / Barebone Akan Tersedia Di [Tokopedia](https://www.tokopedia.com/zahranetid)
 
