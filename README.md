@@ -15,7 +15,7 @@
 
 ## Spesifikasi
 
-- RP2040 Microcontroller
+- RP2040 Zero Microcontroller
 
 - 12 Tombol dan 3 Rotary Encoder
 
