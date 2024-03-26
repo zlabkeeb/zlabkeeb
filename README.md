@@ -3,7 +3,9 @@
     Hallo & Selamat Datang Di @zlabkeeb</h1>
 </p>
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A1818&random=false&width=435&lines=Macropad+zlabkeeb+6Pad" alt="Typing SVG" /></a>
+# 6pad
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A1818&random=false&width=435&lines=Macropad+zlabkeeb+6Pad" alt="Typing SVG" /></a>
 
 <p align="center">
   <img width="275" height="500" src="https://i.imgur.com/ByUJhzF.jpg">
@@ -31,6 +33,9 @@ https://github.com/zlabkeeb/zlabkeeb/assets/160311066/0e162052-c94c-463f-b698-12
 
 - Led RGB Underglow
 
+#
+
+# 15pad
 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A1818&random=false&width=435&lines=Macropad+zlabkeeb+15Pad" alt="Typing SVG" /></a>
 <p align="center">
@@ -53,5 +58,3 @@ https://github.com/zlabkeeb/zlabkeeb/assets/160311066/0e162052-c94c-463f-b698-12
 - USB-C Konektivitas
 
 - Led RGB Underglow
-
-#
