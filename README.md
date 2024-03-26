@@ -30,13 +30,12 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A1818&random=false&width=435&lines=Macropad+zlabkeeb+6Pad" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img width="290" height="400" src="https://i.imgur.com/yt3dKCBh.jpeg">
+  <img width="290" height="500" src="https://i.imgur.com/ByUJhzF.jpg">
 </p>
 
 - Update PCB V2 Lebih Kecil Dan Rapi ✅
 
-- PR QMK ✅
-- Masih Proses PR VIA
+- PR QMK DONE✅ -  PR VIA DONE✅
 - PCB / Barebone Akan Tersedia Di [Tokopedia](https://www.tokopedia.com/zahranetid)
 
 ## Spesifikasi
