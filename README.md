@@ -44,7 +44,7 @@ https://github.com/zlabkeeb/zlabkeeb/assets/160311066/0e162052-c94c-463f-b698-12
 
 
 
-- Masih Proses PR QMK
+- PR QMK DONE✅ -  PR VIA DONE✅
 - PCB / Barebone Akan Tersedia Di [Tokopedia](https://www.tokopedia.com/zahranetid)
 
 ## Spesifikasi
