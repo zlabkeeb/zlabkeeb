@@ -47,6 +47,18 @@ https://github.com/zlabkeeb/zlabkeeb/assets/160311066/0e162052-c94c-463f-b698-12
 - PR QMK DONE✅ -  PR VIA DONE✅
 - PCB / Barebone Akan Tersedia Di [Tokopedia](https://www.tokopedia.com/zahranetid)
 
+
+- UPDATE PCB V2 + Oled Screen
+<p align="center">
+  <img width="370" height="500" src="https://github.com/zlabkeeb/zlabkeeb/assets/160311066/d0002751-cc85-40c5-99f9-9f4b830c02a2">
+</p>
+
+<p align="center">
+  <img width="370" height="500" src="https://github.com/zlabkeeb/zlabkeeb/assets/160311066/66ff2c84-2905-4e21-a927-c963ab3fa48e">
+</p>
+
+
+
 ## Spesifikasi
 
 - RP2040 Zero Microcontroller
